@@ -1,0 +1,6 @@
+George 7.52 2020 Matematica
+Ionescu 8.43 2021 CTI
+Albert 8.08 2022 Informatica
+Ioana 7.89 2023 Matematica
+Marisa 9.21 2022 Informatica 
+ 
