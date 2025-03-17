@@ -34,11 +34,9 @@ Link util : https://stackoverflow.com/questions/10983791/c-transaction-like-patt
 
 Link pentru implementare in Python : https://harshilbmk.medium.com/day-28-oop-practice-building-a-banking-system-2901d553eca8
 Sau : https://dev.to/eteimz/modeling-a-banking-system-in-oop-g23
-Link uri posibil utile : https://www.youtube.com/watch?v=xTh-ln2XhgU&ab_channel=JohanGodinho
-
-Alta idee : Partid politic xd ( Membrii, Program intalniri, Legi de implementat, oameni pentru recrutari, Prioritati de partid : sesiuni, recrutat, grind in parlament)
+Link-uri posibil utile : https://www.youtube.com/watch?v=xTh-ln2XhgU&ab_channel=JohanGodinho
 
 Header files sau source files / utility / files ...  
 .h pentru header si .cpp pentru source files 
 
-
+Alta idee : Partid politic xd ( Membrii, Program intalniri, Legi de implementat, oameni pentru recrutari, Prioritati de partid : sesiuni, recrutat, grind in parlament)
