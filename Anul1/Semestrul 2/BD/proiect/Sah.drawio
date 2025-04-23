@@ -570,10 +570,10 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-160" value="M(0)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-160" value="M(2)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="1050" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-161" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-161" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h8lowL3ZB-aE6R0n006t-162" value="&lt;div&gt;M(2)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
