@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.1.3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1000" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1400" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h8lowL3ZB-aE6R0n006t-32" value="Utilizatori" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-32" value="Jucători de șah" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="980" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="h8lowL3ZB-aE6R0n006t-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="h8lowL3ZB-aE6R0n006t-32" vertex="1">
@@ -576,10 +576,10 @@
         <mxCell id="h8lowL3ZB-aE6R0n006t-161" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-162" value="&lt;div&gt;M(0)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-162" value="&lt;div&gt;M(2)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-163" value="&lt;div&gt;M(2)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-163" value="&lt;div&gt;M(1)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="1210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h8lowL3ZB-aE6R0n006t-164" value="joaca in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -607,10 +607,10 @@
         <mxCell id="h8lowL3ZB-aE6R0n006t-168" value="&lt;div&gt;au&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-169" value="M(0)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-169" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-170" value="&lt;div&gt;M(0)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-170" value="&lt;div&gt;M(1)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h8lowL3ZB-aE6R0n006t-171" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="h8lowL3ZB-aE6R0n006t-62" target="h8lowL3ZB-aE6R0n006t-139" edge="1">
@@ -622,13 +622,13 @@
         <mxCell id="h8lowL3ZB-aE6R0n006t-172" value="&lt;div&gt;au&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-173" value="&lt;div&gt;M(0)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-173" value="1(0)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h8lowL3ZB-aE6R0n006t-174" value="&lt;div&gt;M(0)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8lowL3ZB-aE6R0n006t-175" value="&lt;div&gt;M(0)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="h8lowL3ZB-aE6R0n006t-175" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h8lowL3ZB-aE6R0n006t-176" value="&lt;div&gt;M(0)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
