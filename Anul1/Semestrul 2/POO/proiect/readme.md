@@ -13,7 +13,7 @@ Workflow
     6.1. Implementare savings_acc.h & savings_acc.cpp\
 	6.2. Implementare adult_acc.h & adult_acc.cpp\
 	6.3. Implementare child_acc.h & child_acc.cpp\
-	6.4. Implementare student_acc.h & student_acc.cpp\
+	6.4. Implementare student_acc.h & student_acc.cpp
 7. Error Handling pentru fee (N-ar trebui sa setez eu fee din main)
 8. Implement Namespaces 
 9. Research Investing Simulation 
