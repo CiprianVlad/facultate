@@ -44,11 +44,9 @@ or withdrawing from a non-existent account.
 
 3. Data Persistence: Salvez datele dintre sesiuni 
 
-4. Investitii:  in bonds ; mutual fonds ; stocks ; 
-	4.1. Bonds ( return fixed rate, usor de implementat) 
-	4.2. Mutual Funds ( Return an average of 8 to 12 percent per year) -> Needs a bit of research sa vad care ar fi limita 
-	4.3. Stocks ( Higher risk, higher reward) -> Similar cu Mutual funds
-
+4. Investitii:  in bonds ; mutual fonds ; stocks ; \
+	4.1. Bonds ( return fixed rate, usor de implementat) \
+	4.2. Mutual Funds ( Return an average of 8 to 12 percent per year) -> Needs a bit of research sa vad care ar fi limita \
+	4.3. Stocks ( Higher risk, higher reward) -> Similar cu Mutual funds \
 	Pentru stocks : o iteratie reprezinta o luna / o zi 
-1. (Pick a random number care sa fie return ul dintre 0 si 4 
-1. si flip a coin pentru positive or negative number )
+(Pick a random number care sa fie return ul dintre 0 si 4 si flip a coin pentru positive or negative number )
