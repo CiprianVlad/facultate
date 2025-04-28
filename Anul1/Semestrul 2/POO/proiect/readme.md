@@ -1,42 +1,54 @@
 Banking System Simulator using OOP 
 
 ---
-Workflow 
-1. Separarea pe clase .h .cpp ale claselor  
-2. Scris definitii functii pentru bank 
-3. Implemnetare clasa bank 
----
 
-! Important : No namespaces 
+Workflow 
+
+1. Separarea pe clase .h .cpp ale claselor  
+2. Implementare account.h, bank.h, transactions.h 
+3. Implemnetare account.cpp, bank.cpp, transactions.cpp
+4. Implementare main.cpp 
+5. Testare & Debugging
+6. Implementare tipuri de conturi + functii 
+    6.1. Implementare savings_acc.h & savings_acc.cpp
+	6.2. Implementare adult_acc.h & adult_acc.cpp
+	6.3. Implementare child_acc.h & child_acc.cpp
+	6.4. Implementare student_acc.h & student_acc.cpp
+7. Error Handling pentru fee (N-ar trebui sa setez eu fee din main)
+8. Implement Namespaces 
+9. Research Investing Simulation 
+10. Implementare investii din banca (bonds, mutual funds, stocks)
+
+---
 
 Main classes : Bank, Accounts, Transactions 
 
-Bank : Manages multiple accounts and provides methods for creating accounts and viewing details. (Detail idea : Un user poate avea mai multe conturi la aceeasi banca)
+Bank : Manages multiple accounts and provides methods for creating accounts and viewing details. 
+(Detail idea : Un user poate avea mai multe conturi la aceeasi banca)
 
-Accounts :  deposit, transfer, withdrawal (Detail idea : Taxa pentru schimbat currency) // Represents a bank account with methods for depositing, withdrawing, and transferring funds. 
+Accounts :  deposit, transfer, withdrawal (Detail idea : Taxa pentru schimbat currency)
+// Represents a bank account with methods for depositing, withdrawing, and transferring funds. 
 
 Transactions : keeps a transaction record to keep track of deposits, withdrawals, and transfers. 
 
-Idei in general for enhancing : 
+Idei in general for enhancements :
 
 1. Error Handling : UNIT tests 
-//  Implement error handling to manage invalid operations, 
-such as transferring more than the available balance or withdrawing from a non-existent account.
-Link util : https://stackoverflow.com/questions/10983791/c-transaction-like-pattern-for-all-or-nothing-work
+Implement error handling to manage invalid operations, 
+such as transferring more than the available balance 
+or withdrawing from a non-existent account.
 
-2. Account Types : Student acc ; Adult acc ; Child acc ; Admin ? 
++ Nu exista mai multe conturi cu acceeasi adresa. 
 
-3. User Interface: Sa pot sa interactionez cu the banking system 
+2. Account Types : Student acc ; Adult acc ; Admin ? 
 
-4. Data Persistence: Salvez datele dintre sesiuni 
+3. Data Persistence: Salvez datele dintre sesiuni 
 
-5. Investitii: (Ca pe revo) in bonds ; mutual fonds ; crypto why not   
+4. Investitii:  in bonds ; mutual fonds ; stocks ; 
+	4.1. Bonds ( return fixed rate, usor de implementat) 
+	4.2. Mutual Funds ( Return an average of 8 to 12 percent per year) -> Needs a bit of research sa vad care ar fi limita 
+	4.3. Stocks ( Higher risk, higher reward) -> Similar cu Mutual funds
 
-Link pentru implementare in Python : https://harshilbmk.medium.com/day-28-oop-practice-building-a-banking-system-2901d553eca8
-Sau : https://dev.to/eteimz/modeling-a-banking-system-in-oop-g23
-Link-uri posibil utile : https://www.youtube.com/watch?v=xTh-ln2XhgU&ab_channel=JohanGodinho
-
-Header files sau source files / utility / files ...  
-.h pentru header si .cpp pentru source files 
-
-Alta idee : Partid politic xd ( Membrii, Program intalniri, Legi de implementat, oameni pentru recrutari, Prioritati de partid : sesiuni, recrutat, grind in parlament)
+	Pentru stocks : o iteratie reprezinta o luna / o zi 
+1. (Pick a random number care sa fie return ul dintre 0 si 4 
+1. si flip a coin pentru positive or negative number )
