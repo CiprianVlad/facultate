@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="28.2.8">
   <diagram name="Page-1" id="N8ifSmLJIOxR9z5Cxc3C">
-    <mxGraphModel dx="1281" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1507" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkQ8iXLstlcEHascYdmE-102" value="Editura" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="33" y="330" width="180" height="150" as="geometry" />
+          <mxGeometry x="26" y="332" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gkQ8iXLstlcEHascYdmE-103" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="gkQ8iXLstlcEHascYdmE-102" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -434,7 +434,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gkQ8iXLstlcEHascYdmE-115" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0.015;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.022;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="gkQ8iXLstlcEHascYdmE-102" target="gkQ8iXLstlcEHascYdmE-1" edge="1">
+        <mxCell id="gkQ8iXLstlcEHascYdmE-115" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0.015;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gkQ8iXLstlcEHascYdmE-102" target="gkQ8iXLstlcEHascYdmE-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="149.58" y="583" as="sourcePoint" />
             <mxPoint x="249.58" y="483" as="targetPoint" />
