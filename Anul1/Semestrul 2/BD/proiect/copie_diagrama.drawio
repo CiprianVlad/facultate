@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Page-1" id="Buv67vQwoppSDr6wTrOa">
     <mxGraphModel dx="1489" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1263,7 +1263,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MDO8KZnFb_jWIF1vuc5v-207" parent="MDO8KZnFb_jWIF1vuc5v-205" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="id_puzzle" vertex="1">
+        <mxCell id="MDO8KZnFb_jWIF1vuc5v-207" parent="MDO8KZnFb_jWIF1vuc5v-205" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;id_mesaj&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="98" x="30" as="geometry">
             <mxRectangle height="30" width="98" as="alternateBounds" />
           </mxGeometry>
